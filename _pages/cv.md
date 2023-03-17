@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: "https://aadityamehar.github.io/files/CV.pdf"
 author_profile: true
 paperurl : "https://aadityamehar.github.io/files/CV.pdf"
 redirect_from:
