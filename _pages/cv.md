@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperurl : "https://aadityamehar.github.io/files/AadityaMehar_final (2).pdf"
 redirect_from:
   - /resume
 ---
